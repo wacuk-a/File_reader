@@ -1,19 +1,15 @@
-# File Reader & Modifier (Beginner Version)
+# Simple File Reader & Modifier
 
-This is a simple Python program that:
+This is a small Python program that:
 
-1. Asks the user for a file name to read.
-2. Reads the file and shows its content.
-3. Converts the text to **uppercase**.
-4. Saves the modified text to a new file.
-5. Handles errors if the file cannot be opened.
+1. Reads a file you choose.
+2. Changes the text (makes it uppercase).
+3. Saves it to a new file.
 
 ## How to Use
 
-1. Make sure you have Python installed (Python 3.x recommended).
-2. Save the Python file (e.g., `file_editor.py`) in your folder.
-3. Have a text file ready (example: `input.txt`) in the same folder.
-4. Run the program in the terminal or command prompt:
+1. Put your text file in the same folder as this program.
+2. Run the program:
 
    ```bash
    python file_editor.py
